@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+  <movie id="frame-2">
+    <title>1+1</title>
+    <sessions>
+      <session>10:00</session>
+      <session>12:30</session>
+      <session>15:00</session>
+      <session>18:00</session>
+      <session>20:30</session>
+    </sessions>
+    <address>ул. Бобруйская, 6</address>
+  </movie>
+  <movie id="frame-3">
+    <title>Бойцовский клуб</title>
+    <sessions>
+      <session>11:00</session>
+      <session>13:30</session>
+      <session>16:00</session>
+      <session>19:00</session>
+      <session>21:30</session>
+    </sessions>
+    <address>ул. Петра Мстиславца, 11</address>
+  </movie>
+  <movie id="frame-4">
+    <title>Джентльмены</title>
+    <sessions>
+      <session>09:30</session>
+      <session>12:00</session>
+      <session>14:30</session>
+      <session>17:00</session>
+      <session>19:30</session>
+    </sessions>
+    <address>ул. Бобруйская, 6</address>
+  </movie>
+  <movie id="frame-5">
+    <title>Призрак</title>
+    <sessions>
+      <session>10:30</session>
+      <session>13:00</session>
+      <session>15:30</session>
+      <session>18:30</session>
+      <session>21:00</session>
+    </sessions>
+    <address>ул. Бобруйская, 6</address>
+  </movie>
+  <movie id="frame-6">
+    <title>Иллюзия обмана</title>
+    <sessions>
+      <session>11:30</session>
+      <session>14:00</session>
+      <session>16:30</session>
+      <session>19:30</session>
+      <session>22:00</session>
+    </sessions>
+    <address>просп. Победителей, 9</address>
+  </movie>
+</movies>
